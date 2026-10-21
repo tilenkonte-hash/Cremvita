@@ -21,3 +21,5 @@ Odprite `http://localhost:3000` v brskalniku. Strežnik ustavite s Ctrl+C. Za og
 Naročila potekajo prek e-poštnih in telefonskih povezav; spletna plačila in obrazci niso vključeni. Podatki izhajajo iz uporabnikovega prodajnega letaka, fotografije pa iz tega repozitorija. Pred javno objavo potrdite podatke ponudnika, besedila, pogoje naročanja ter informacije o sestavinah in alergenih.
 
 Plemiški lik in grb sta igriva predstavitev blagovne znamke. Grb je vektorski SVG, vključen neposredno v HTML.
+
+Uvodna fotografija `images/greta-grofovska-krona.png` vsebuje z orodjem za generiranje slik dodano zlato grofovsko krono. Izvirnik `images/Tilen Konte14.webp` ostaja ohranjen.
